@@ -1,0 +1,6 @@
+{
+    "go.toolsEnvVars": {
+        "GOROOT": "C:\\Users\\aaly9\\AppData\\Local\\tinygo\\goroot-go1.17-0cf06f35328485081489fdb0dbdf93d16d066f83e70480c48ffd5df6098086d5-syscall",
+        "GOFLAGS": "-tags=esp32_coreboard_v2,esp32,esp,xtensa,baremetal,linux,arm,tinygo,math_big_pure_go,gc.conservative,scheduler.tasks,serial.uart"
+    }
+}
